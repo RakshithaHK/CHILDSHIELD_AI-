@@ -1,6 +1,8 @@
 # 🛡 ChildShield – AI Child Protection & Content Safety System (React)
 
-Academic prototype built with **React 18 + Vite** (plain JavaScript, no backend).
+Academic prototype built with **React 18 + Vite** (plain JavaScript).
+SVIT(Sai Vidya Institute of Technology)
+
 It demonstrates the full protection workflow from the ChildShield project proposal:
 
 ```
